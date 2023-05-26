@@ -1,0 +1,151 @@
+{
+  "seller": [
+    {
+      "name": "dheeraj khobre",
+      "email": "dheeraj@mailinator.com",
+      "password": "dheeraj",
+      "id": 1
+    },
+    {
+      "name": "Akash",
+      "password": "Test@1234",
+      "email": "akash@mailinator.com",
+      "id": 2
+    },
+    {
+      "name": "vaibhav dwivedi",
+      "password": "Test@1234",
+      "email": "vaibhav@mailinator.com",
+      "id": 3
+    },
+    {
+      "name": "vijay",
+      "password": "Test@1234",
+      "email": "vijay@mailinator.com",
+      "id": 4
+    },
+    {
+      "name": "Ramesh",
+      "password": "Test@1234",
+      "email": "ramesh@mailinator.com",
+      "id": 5
+    },
+    {
+      "name": "vinay",
+      "password": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "vinaya",
+      "password": "Test@1234",
+      "email": "vinaya@mail.com",
+      "id": 7
+    },
+    {
+      "name": "dgffh",
+      "password": "qwd",
+      "email": "dwefwe",
+      "id": 8
+    },
+    {
+      "name": "vikram",
+      "password": "Test@1234",
+      "email": "vikram@mail.com",
+      "id": 9
+    },
+    {
+      "name": "binod",
+      "password": "Test@1234",
+      "email": "binod@mail.com",
+      "id": 10
+    },
+    {
+      "name": "vipin",
+      "password": "Test@1234",
+      "email": "vipin@test.com",
+      "id": 11
+    },
+    {
+      "name": "Rajnikant",
+      "password": "2134",
+      "email": "dsfg@dhb.com",
+      "id": 12
+    },
+    {
+      "name": "Rajnikant",
+      "password": "2134",
+      "email": "dsfg@dhb.com",
+      "id": 13
+    },
+    {
+      "name": "wfw",
+      "password": "3r23213",
+      "email": "dferf@dsf",
+      "id": 14
+    },
+    {
+      "name": "manmohan",
+      "password": "1234",
+      "email": "man@mohan.com",
+      "id": 15
+    },
+    {
+      "name": "manmohan",
+      "password": "1234",
+      "email": "man@mohan.com",
+      "id": 16
+    },
+    {
+      "name": "jhdsvbfs",
+      "password": "j1b@312",
+      "email": "jgyjf@yfyujh.com",
+      "id": 17
+    },
+    {
+      "name": "vimal",
+      "password": "Test@1234",
+      "email": "vimal@test.com",
+      "id": 18
+    },
+    {
+      "name": "vimal",
+      "password": "Test@1234",
+      "email": "vimal@test.com",
+      "id": 19
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 20
+    },
+    {
+      "name": "ajay",
+      "password": "Test@1234",
+      "email": "ajay@mail.com",
+      "id": 21
+    },
+    {
+      "name": "shyam",
+      "password": "1234",
+      "email": "shyam@TEST.COM",
+      "id": 22
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 23
+    },
+    {
+      "email": "wre",
+      "password": "twet",
+      "id": 24
+    },
+    {
+      "email": "wdqwed",
+      "password": "kljklj",
+      "id": 25
+    }
+  ]
+}

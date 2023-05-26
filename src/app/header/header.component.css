@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:cadetblue;
+}
+
+nav div{
+    margin-top: 26px;
+}
+
+nav ul{
+    display: inline-flex;
+    list-style-type: none;
+}
+
+nav li{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 12px;
+}
+body{
+  background-color:cadetblue;
+}
+
+nav h1{
+  padding-left: 10px;
+}
